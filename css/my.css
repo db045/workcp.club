@@ -1,0 +1,18 @@
+/* Here is your custom css styles. */
+.bg-color {
+    background-image: linear-gradient(to right, #00BCD4 0%, #0097A7 100%);
+}
+
+.progress-bar {
+    background: linear-gradient(to right, #00BCD4 0%, #0097A7 100%);
+}
+
+.cover-btns a:hover {
+    border: 1px solid #bdbdbd;
+    background-color: #bdbdbd;
+}
+
+
+.top-scroll .btn-floating {
+    background: linear-gradient(to bottom right, #FFC107 0%, #FFC107 100%);
+}
